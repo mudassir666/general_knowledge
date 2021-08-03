@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: "GK",
       home: GeneralKnowledge(),
       theme: ThemeData(
-          brightness: Brightness.dark, primaryColor: Colors.indigo[900]),
+           primaryColor: Colors.indigo[900]),
     );
   }
 }
